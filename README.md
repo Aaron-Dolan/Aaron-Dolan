@@ -32,5 +32,3 @@ I'm always open to interesting discussions, collaborations, and new opportunitie
 - Twitter: [@AaronDolanMusic](https://twitter.com/AaronDolanMusic)
 
 Looking forward to connecting with you!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-dolan)](https://github.com/aaron-dolan/github-readme-stats)
