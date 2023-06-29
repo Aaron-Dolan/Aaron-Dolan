@@ -1,6 +1,6 @@
 # Hi there, I'm Aaron Dolan! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Feel free to browse through my projects and contributions. 
+Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Feel free to browse through my projects and contributions.
 
 ## 🚀 Skills and Expertise
 
@@ -9,24 +9,25 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 - **Tools and Technologies**: Git, MySQL, MongoDB
 - **Other Skills**: Data Analysis, Problem Solving
 
-## 💼 Projects so far
+## 💼 Projects
 
-1. [Gigs Eire](https://aaron-dolan.github.io/Gigs-Eire/index.html): Gigs Eire is a project I am working with a fellow Web Development student, Brian Candon.
+Here's a project I have been working on recently:
 
+1. [Gigs Eire](https://aaron-dolan.github.io/Gigs-Eire/index.html): Gigs Eire is a collaborative project that I am working on with a fellow Web Development student, Brian Candon. It is a platform for discovering and exploring local gigs and events in Ireland. Check it out!
 
 ## 🌱 Learning and Goals
 
 I am continually expanding my knowledge and exploring new areas. Currently, I am focusing on:
 
-- Deepening my understanding of machine learning algorithms.
-- Exploring cloud computing and serverless architectures.
-- Developing skills in UI/UX design principles.
+- Deepening my understanding of machine learning algorithms to leverage data insights in my projects.
+- Exploring cloud computing and serverless architectures to build scalable and efficient applications.
+- Developing my skills in UI/UX design principles to create intuitive and user-friendly interfaces.
 
 ## 📫 Let's Connect
 
 I'm always open to interesting discussions, collaborations, and new opportunities. You can reach me via:
 
-- Email: [your@email.com](aarondolanwebdev@gmail.com)
+- Email: [aarondolanwebdev@gmail.com](mailto:aarondolanwebdev@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aaron-dolan-463562237/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/AaronDolanMusic)
 
