@@ -29,6 +29,6 @@ I'm always open to interesting discussions, collaborations, and new opportunitie
 
 - Email: [aarondolanwebdev@gmail.com](mailto:aarondolanwebdev@gmail.com)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aaron-dolan-463562237/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/AaronDolanMusic)
+- Twitter: [@AaronDolanMusic](https://twitter.com/AaronDolanMusic)
 
 Looking forward to connecting with you!
