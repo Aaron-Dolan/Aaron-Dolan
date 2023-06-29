@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 Here's a project I have been working on recently:
 
-1. [Gigs Eire](https://aaron-dolan.github.io/Gigs-Eire/index.html): Gigs Eire is a collaborative project that I am working on with a fellow Web Development student, Brian Candon. It is a platform for discovering and exploring local gigs and events in Ireland. Check it out!
+[Gigs Eire](https://aaron-dolan.github.io/Gigs-Eire/index.html): Gigs Eire is a collaborative project that I am working on with a fellow Web Development student, Brian Candon. It is a platform for discovering and exploring local gigs and events in Ireland. Check it out!
 
 ## 🌱 Learning and Goals
 
