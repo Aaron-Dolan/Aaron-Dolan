@@ -33,4 +33,4 @@ I'm always open to interesting discussions, collaborations, and new opportunitie
 
 Looking forward to connecting with you!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-dolan)](https://github.com/aaron-dolan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-dolan&show_icons=true&theme=radical)
