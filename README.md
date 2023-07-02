@@ -28,7 +28,7 @@ I am continually expanding my knowledge and exploring new areas. Currently, I am
 I'm always open to interesting discussions, collaborations, and new opportunities. You can reach me via:
 
 - Email: [aarondolanwebdev@gmail.com](mailto:aarondolanwebdev@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aaron-dolan-463562237/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aaron--dolan)
 - Twitter: [@AaronDolanMusic](https://twitter.com/AaronDolanMusic)
 
 Looking forward to connecting with you!
