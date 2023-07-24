@@ -23,7 +23,7 @@ I am continually expanding my knowledge and exploring new areas. Currently, I am
 - Exploring cloud computing and serverless architectures to build scalable and efficient applications.
 - Developing my skills in UI/UX design principles to create intuitive and user-friendly interfaces.
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 I'm always open to interesting discussions, collaborations, and new opportunities. You can reach me via:
 
