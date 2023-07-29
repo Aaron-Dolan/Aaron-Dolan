@@ -15,7 +15,7 @@ Here's a project I have been working on recently:
 
 [Gigs Eire](https://aaron-dolan.github.io/Gigs-Eire/index.html): Gigs Eire is a collaborative project that I am working on with a fellow Web Development student, Brian Candon. It is a platform for discovering and exploring local gigs and events in Ireland. Check it out!
 
-## 🌱 Learning and Goals
+## 🌱 Learning & Goals
 
 I am continually expanding my knowledge and exploring new areas. Currently, I am focusing on:
 
