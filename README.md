@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Feel free to browse through my projects and contributions.
 
-## 🚀 Skills and Expertise
+## 🚀 Skills & Expertise
 
 - **Languages**: Python, JavaScript, HTML/CSS
 - **Frameworks**: Flask, React
