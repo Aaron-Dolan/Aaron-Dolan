@@ -1,4 +1,4 @@
-# Hi there, I'm Aaron Dolan! 👋
+# Hi there, I'm Aaron Dolan 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Feel free to browse through my projects and contributions.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 - **Tools and Technologies**: Git, MySQL, MongoDB
 - **Other Skills**: Data Analysis, Problem Solving
 
-## 💼 Projects
+## 💼 Projects:
 
 Here's a project I have been working on recently:
 
