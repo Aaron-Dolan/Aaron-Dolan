@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 - **Tools and Technologies**: Git, MySQL, MongoDB
 - **Other Skills**: Data Analysis, Problem Solving
 
-## 💼 Projects:
+## 💼 Projects
 
 Here's a project I have been working on recently:
 
